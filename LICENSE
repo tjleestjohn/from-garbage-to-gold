@@ -1,0 +1,20 @@
+DUAL LICENSING NOTICE
+
+1. ACADEMIC PAPER & DOCUMENTATION
+   The text of the paper "From Garbage to Gold" and the documentation (README) 
+   are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+   You are free to share and adapt this material for any purpose, even commercially, 
+   as long as you give appropriate credit.
+
+2. SOFTWARE & SIMULATION CODE
+   The source code (including 'simulation.R' and any associated scripts) 
+   is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+   
+   * You may NOT use the software for commercial purposes.
+   * You may NOT sell the software or any modifications of it.
+   * For commercial licenses, please contact the authors.
+
+-----------------------------------------------------------------------
+See full terms at:
+CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+CC BY-NC 4.0: https://creativecommons.org/licenses/by-nc/4.0/
