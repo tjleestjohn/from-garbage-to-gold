@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="#usage"><strong>Jump to R Simulation Script 💻</strong></a> &nbsp;|&nbsp; 
-  <a href="./G2G_Paper_Audio_Overview.mp3?raw=true"><strong>🎧 Download Audio Overview (MP3)</strong></a> &nbsp;|&nbsp; 
+  <a href="https://raw.githubusercontent.com/tjleestjohn/from-garbage-to-gold/main/G2G_Paper_Audio_Overview.mp3"><strong>🎧 Download Audio Overview (MP3)</strong></a> &nbsp;|&nbsp;
   <a href="mailto:tjleestjohn@gmail.com"><strong>✉️ Email First Author</strong></a>
 </p>
 
