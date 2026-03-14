@@ -13,8 +13,8 @@
 </p>
 
 ### 📰 News
-* **Feb XX, 2026:** Paper submitted to arXiv (`cs.LG`).
-* **Feb XX, 2026:** Initial code release (v1.0).
+* **Feb 24, 2026:** Paper submitted to arXiv (`cs.LG`).
+* **Feb 24, 2026:** Initial code release (v1.0).
 
 > **TL;DR**
 >
@@ -93,7 +93,7 @@ We would love to hear your thoughts on the theory and its potential applications
 ---
 
 ## <a id="usage"></a>💻 Usage (R Script)
-To downlaod the simulation script, simply copy, paste, and run the below code in R. Or download it from this Repo directly.
+To download the simulation script, simply copy, paste, and run the below code in R. Or download it from this Repo directly.
 
 When the g2g_simulation.R script opens in R, select all, then run.
 
@@ -101,7 +101,7 @@ Follow the prompts in the R console to proceed through the simulation stages.
 
 **Notes:**
 * **Automatic Setup:** The script is self-contained. It will automatically detect and install any missing dependencies (e.g., `data.table`, `ranger`, `ggplot2`) upon the first run.
-* **Runtime:** The simulation works in a high-dimensional predictor space with a large sample size. Please expect substantial execution time.
+* **Runtime:** The simulation operates in a high-dimensional predictor space with a large sample size. Please expect substantial runtime. If you wish to speed up the process, reduce the value assigned to N_SPECTRAL_ITERATIONS in the script prior to execution (e.g., to 5 or even 1). To fully recreate the results shown in the paper, however, 20 iterations for both N_SPECTRAL_ITERATIONS and N_SUPER_ITERATIONS should be completed.
 
 ```R
 # 1. Define the direct URL to the raw script on GitHub
