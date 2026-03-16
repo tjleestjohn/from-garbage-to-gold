@@ -2,7 +2,7 @@
 
 **Links**
 
-[![Read Paper (Status: Under Review)](https://img.shields.io/badge/Read%20Paper-(Status:%20Under%20Review)-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://arxiv.org/your-paper-link)
+[![Read Paper (Status: Under Review)](https://img.shields.io/badge/Read%20Paper-(Status:%20Under%20Review)-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://arxiv.org/abs/2603.12288)
 [![Paper License](https://img.shields.io/badge/Paper_License-CC_BY_4.0-green?style=for-the-badge)](https://creativecommons.org/licenses/by/4.0/)
 [![Code License](https://img.shields.io/badge/Code_License-CC_BY--NC_4.0-lightgrey?style=for-the-badge)](https://creativecommons.org/licenses/by-nc/4.0/)
 
@@ -127,15 +127,15 @@ If you use this work, please cite the paper:
 @article{lee-stjohn2026garbage,
   title={From Garbage to Gold: A Data-Architectural Theory of Predictive Robustness},
   author={Lee-St. John, Terrence J., Lawson, Jordan L., and Piechowski-Jozwiak, Bartlomiej},
-  journal={arXiv preprint arXiv:25XX.XXXXX},
+  journal={arXiv preprint arXiv:2603.12288},
   year={2026},
-  url={https://arxiv.org/abs/25XX.XXXXX}
+  url={https://arxiv.org/abs/2603.12288}
 }
 
 ```
 
 | **Resource** | **Link** |
 | --- | --- |
-| **From Garbage to Gold - Full Paper** | [arXiv cs.LG](https://www.google.com/search?q=https://arxiv.org/abs/25XX.XXXXX) |
+| **From Garbage to Gold - Full Paper** | [arXiv cs.LG](https://arxiv.org/abs/2603.12288) |
 | **Cleveland Clinic Abu Dhabi Case Study** | [PLOS Digital Health](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000589) |
 | **Contact First Author** | [Email Me](mailto:tjleestjohn@gmail.com) |
