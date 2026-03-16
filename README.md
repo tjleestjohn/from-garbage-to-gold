@@ -12,7 +12,7 @@
   <a href="mailto:tjleestjohn@gmail.com"><strong>✉️ Email First Author</strong></a>
 </p>
 
-### 📰 Dates
+**Dates**
 * **March 08, 2026:** Paper submitted to arXiv (`cs.LG`).
 * **March 08, 2026:** Initial code release (v1.0).
 
